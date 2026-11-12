@@ -1,0 +1,10 @@
+{
+  "description": "Showcases DeepThink's AI solutions with engaging visuals, smooth animations, and integrated sales content to attract and inform potential clients.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
